@@ -38,7 +38,6 @@ body:
       required: true
 
   - type: dropdown
- 
     id: btarget
     attributes:
       label: "What is your build target?"
