@@ -1,2 +1,2 @@
-This is all unused files of the mod.
-If you want to use it, go ahead. 
+These are all memes lol.
+Do not open those .png files.
