@@ -9,3 +9,11 @@ setPropertyAs[“”]
 fileName[“”]
 savePropertyOn[“”:{“”}]
 propertyCode[“”]
+
+setMeme[""]
+doNotOpenVideo=true
+feedWebsite=false
+gifFile=false
+saveMemeOn[“”:{“”}]
+badMeme=true
+haveALolText=false
